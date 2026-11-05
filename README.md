@@ -13,13 +13,13 @@
 
 ## Workshop agenda
 
-| Time | Topic | Material |
-| --- | --- | --- |
- Git, GitHub, and repositories | [Core concepts](docs/01-concepts.md) |
- Local vs. remote, commits, and branches | [Core concepts](docs/01-concepts.md) |
- Essential Git commands in VS Code | [Commands](docs/02-commands.md) |
- Team workflow with branches and PRs | [Team workflow](docs/03-team-workflow.md) |
- Best practices and questions | [Best practices](docs/04-best-practices.md) |
+| Time | Topic |
+| --- | --- |
+ Git, GitHub, and repositories | [Core concepts](docs/01-concepts.md) 
+ Local vs. remote, commits, and branches | [Core concepts](docs/01-concepts.md) 
+ Essential Git commands in VS Code | [Commands](docs/02-commands.md) 
+ Team workflow with branches and PRs | [Team workflow](docs/03-team-workflow.md) 
+ Best practices and questions | [Best practices](docs/04-best-practices.md) 
 
 ## Git vs. GitHub: the short version
 
