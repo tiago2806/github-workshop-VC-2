@@ -12,26 +12,6 @@
 8. **Merge the PR** — after review, merge it into `main` on GitHub.
 9. **Update your local copy** — run `git checkout main` and `git pull origin main`.
 
-## Why does this work?
-
-Branches separate tasks. Commits preserve changes and their history. Pull Requests let teammates review what will be added to `main` before merging.
-
-**Example branch names**
-
-- `feat/login` — new feature
-- `fix/navbar` — bug fix
-- `docs/readme` — documentation
-
-## What is a code review?
-
-Before merging, a teammate can check whether:
-
-- The PR addresses the intended task.
-- The changes are understandable.
-- There are no unnecessary changes or confidential files.
-- Existing functionality still works.
-
-For this session, **one simple peer review per PR** is enough.
 
 ## What if two people edit the same part of a file?
 
