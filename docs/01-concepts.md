@@ -60,4 +60,4 @@ They can work in parallel, commit their changes, and push their branches. In the
 | **Purpose** | Fetch remote changes and integrate them into the current local branch | Propose, discuss, and review changes before merging them into another branch |
 | **Where does it happen?** | In the terminal | On GitHub (in your browser for this workshop) |
 
-**Example:** A teammate merges a PR into `main` on GitHub. You run `git switch main` followed by `git pull origin main` to get those changes on your computer.
+**Example:** A teammate merges a PR into `main` on GitHub. You run `git checkout main` on your vs code terminal followed by `git pull origin main` to get those changes on your computer.
