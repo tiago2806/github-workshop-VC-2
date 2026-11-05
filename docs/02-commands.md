@@ -2,15 +2,6 @@
 
 In VS Code, open your project folder and select **Terminal → New Terminal**. Run the following commands in the integrated terminal (PowerShell, Bash, etc.).
 
-## 0. Initial setup (one-time)
-
-```bash
-git --version
-git config --global user.name "Your Name"
-git config --global user.email "your-email@example.com"
-```
-
-Your name and email identify your commits. You can use the GitHub-provided `noreply` address if you prefer not to expose your personal email address. `git --version` confirms that Git is installed.
 
 ## 1. Quick reference
 
