@@ -19,9 +19,6 @@ In VS Code, open your project folder and select **Terminal → New Terminal**. R
 | `git push` | Sends new commits to the configured upstream remote branch. |
 | `git branch -d branch-name` | Deletes a **local** branch that has already been merged. |
 
-### Useful, but optional for this workshop
-
-`git branch -d branch-name` -> Deletes a **local** branch that has already been merged. 
 
 ## 2. Full example: making a contribution
 
