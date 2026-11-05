@@ -1,10 +1,7 @@
-# Git & GitHub Workshop 🚀
+# Git & GitHub Workshop 
 
 **Learn how to collaborate on a team project using Git, GitHub, and the VS Code terminal.**
 
-> **Audience:** Beginners. No programming experience is required.
->
-> **Suggested duration:** 60 minutes. By the end, you should be able to make a real contribution to this repository.
 
 ## What will you learn?
 
@@ -18,12 +15,12 @@
 
 | Time | Topic | Material |
 | --- | --- | --- |
-| 0–5 min | Git, GitHub, and repositories | [Core concepts](docs/01-concepts.md) |
-| 5–15 min | Local vs. remote, commits, and branches | [Core concepts](docs/01-concepts.md) |
-| 15–30 min | Essential Git commands in VS Code | [Commands](docs/02-commands.md) |
-| 30–40 min | Team workflow with branches and PRs | [Team workflow](docs/03-team-workflow.md) |
-| 40–55 min | Hands-on contribution to this repository | [Exercise](exercises/README.md) |
-| 55–60 min | Best practices and questions | [Best practices](docs/04-best-practices.md) |
+ Git, GitHub, and repositories | [Core concepts](docs/01-concepts.md) |
+ Local vs. remote, commits, and branches | [Core concepts](docs/01-concepts.md) |
+ Essential Git commands in VS Code | [Commands](docs/02-commands.md) |
+ Team workflow with branches and PRs | [Team workflow](docs/03-team-workflow.md) |
+ Hands-on contribution to this repository | [Exercise](exercises/README.md) |
+ Best practices and questions | [Best practices](docs/04-best-practices.md) |
 
 ## Git vs. GitHub: the short version
 
@@ -68,13 +65,13 @@ Then follow the [hands-on exercise](exercises/README.md). If you have not config
 
 ## Learning materials
 
-- 📘 [01 — Core concepts](docs/01-concepts.md)
-- 💻 [02 — Essential commands (cheat sheet)](docs/02-commands.md)
-- 🤝 [03 — Working in a team](docs/03-team-workflow.md)
-- ✅ [04 — Best practices](docs/04-best-practices.md)
-- 🛠️ [05 — Common problems](docs/05-common-problems.md)
-- 🧪 [Hands-on exercise](exercises/README.md)
-- 🎤 [Instructor guide](INSTRUCTOR-GUIDE.md)
+-  [01 — Core concepts](docs/01-concepts.md)
+-  [02 — Essential commands (cheat sheet)](docs/02-commands.md)
+-  [03 — Working in a team](docs/03-team-workflow.md)
+-  [04 — Best practices](docs/04-best-practices.md)
+-  [05 — Common problems](docs/05-common-problems.md)
+-  [Hands-on exercise](exercises/README.md)
+-  [Instructor guide](INSTRUCTOR-GUIDE.md)
 
 ## Remember
 
