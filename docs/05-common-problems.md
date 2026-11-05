@@ -2,7 +2,7 @@
 
 ## `git` is not recognized in the terminal
 
-Git may not be installed or may not be available on your system `PATH`. Install it from https://git-scm.com/downloads, restart VS Code, and check `git --version`.
+Git may not be installed or may not be available on your system `PATH`. Install it from the browser, restart VS Code, and check `git --version`.
 
 ## `Author identity unknown` when committing
 
