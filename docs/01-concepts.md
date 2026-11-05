@@ -20,8 +20,6 @@ You can use Git without GitHub. Commits can be saved locally without an internet
 | **Merge** | Combining changes from one branch into another. |
 | **Pull Request (PR)** | A proposal to merge changes from one branch into another, allowing discussion and review first. |
 
-**Note:** A branch is not a separate full copy of the project folder. Technically, it is a reference to a line of commit history. For beginners, thinking of it as a separate workspace is a useful analogy.
-
 ## What happens when you edit a file?
 
 ```text
