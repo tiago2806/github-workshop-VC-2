@@ -19,9 +19,9 @@ Your name and email identify your commits. You can use the GitHub-provided `nore
 | `git clone URL` | Downloads a remote repository to your computer. |
 | `git status` | Shows your current branch and modified, staged, or untracked files. |
 | `git branch` | Lists local branches. |
-| `git switch main` | Switches to the local `main` branch. |
+| `git checkout main` | Switches to the local `main` branch. |
 | `git pull origin main` | Fetches remote changes from `main` and integrates them into your **current local branch** (run this while on `main` for this workshop). |
-| `git switch -c branch-name` | Creates a new branch and switches to it. |
+| `git checkout -b branch-name` | Creates a new branch and switches to it. |
 | `git add file` | Stages changes to a file for the next commit. |
 | `git commit -m "message"` | Saves the staged changes as a **local** commit. |
 | `git push -u origin branch-name` | Publishes a branch and sets up its upstream tracking branch. |
