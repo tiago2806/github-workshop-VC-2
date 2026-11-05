@@ -19,7 +19,6 @@
  Local vs. remote, commits, and branches | [Core concepts](docs/01-concepts.md) |
  Essential Git commands in VS Code | [Commands](docs/02-commands.md) |
  Team workflow with branches and PRs | [Team workflow](docs/03-team-workflow.md) |
- Hands-on contribution to this repository | [Exercise](exercises/README.md) |
  Best practices and questions | [Best practices](docs/04-best-practices.md) |
 
 ## Git vs. GitHub: the short version
