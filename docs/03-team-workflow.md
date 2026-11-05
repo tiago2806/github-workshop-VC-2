@@ -2,15 +2,15 @@
 
 ## Example: adding a small feature
 
-1. **Start with an updated `main`** — run `git switch main` and `git pull origin main`.
-2. **Create a task-specific branch** — run `git switch -c feat/task-name`.
+1. **Start with an updated `main`** — run `git checkout main` and `git pull origin main`.
+2. **Create a task-specific branch** — run `git checkout -b feat/task-name`.
 3. **Make your changes** — edit and save files in VS Code.
 4. **Check and commit** — run `git status`, `git add file`, and `git commit -m "message"`.
 5. **Publish your branch** — run `git push -u origin feat/task-name`.
 6. **Open a Pull Request on GitHub** — choose `base: main` and `compare: feat/task-name`.
 7. **Ask a teammate for a review** — they can leave comments; if changes are needed, create more commits and push to the same branch to update the PR.
 8. **Merge the PR** — after review, merge it into `main` on GitHub.
-9. **Update your local copy** — run `git switch main` and `git pull origin main`.
+9. **Update your local copy** — run `git checkout main` and `git pull origin main`.
 
 ## Why does this work?
 
