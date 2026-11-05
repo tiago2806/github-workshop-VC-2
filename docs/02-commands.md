@@ -17,12 +17,11 @@ In VS Code, open your project folder and select **Terminal → New Terminal**. R
 | `git commit -m "message"` | Saves the staged changes as a **local** commit. |
 | `git push -u origin branch-name` | Publishes a branch and sets up its upstream tracking branch. Used when it is the first time pushing changes into a new branch. The following times, you just need `git push` |
 | `git push` | Sends new commits to the configured upstream remote branch. |
+| `git branch -d branch-name` | Deletes a **local** branch that has already been merged. |
 
 ### Useful, but optional for this workshop
 
-| Command | What does it do? |
-| `git branch -d branch-name` | Deletes a **local** branch that has already been merged. |
-TBD
+`git branch -d branch-name` -> Deletes a **local** branch that has already been merged. 
 
 ## 2. Full example: making a contribution
 
