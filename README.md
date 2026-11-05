@@ -69,8 +69,6 @@ Then follow the [hands-on exercise](exercises/README.md). If you have not config
 -  [03 — Working in a team](docs/03-team-workflow.md)
 -  [04 — Best practices](docs/04-best-practices.md)
 -  [05 — Common problems](docs/05-common-problems.md)
--  [Hands-on exercise](exercises/README.md)
--  [Instructor guide](INSTRUCTOR-GUIDE.md)
 
 ## Remember
 
