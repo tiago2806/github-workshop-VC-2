@@ -40,7 +40,3 @@ A **merge conflict** can occur when Git cannot automatically combine overlapping
 ## How can everyone work in the same repository?
 
 The simplest approach for this workshop is a **shared repository**. The instructor invites participants as collaborators with write access. Everyone can then push their own branch and open a PR.
-
-Someone **without write permission** would typically create a **fork** and propose changes with a PR from their fork. That workflow is beyond the scope of this beginner session.
-
-> `git pull` updates your local repository. **It does not ask teammates to accept your code.** That is what a Pull Request is for.
